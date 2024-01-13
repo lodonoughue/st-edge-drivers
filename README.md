@@ -1,2 +1,2 @@
-# st-edge-drivers
+# SmartThings Edge Drivers
 Personal SmartThings Edge Drivers
