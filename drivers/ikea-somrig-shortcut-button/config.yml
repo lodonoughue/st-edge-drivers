@@ -1,0 +1,6 @@
+name: "IKEA SOMRIG Shortcut Button"
+packageKey: "ikea-somrig-shortcut-button"
+permissions:
+  zigbee: {}
+description: "Custom driver for IKEA SOMRIG shortcut buttons"
+vendorSupportInformation: "https://support.lodonoughue.com"

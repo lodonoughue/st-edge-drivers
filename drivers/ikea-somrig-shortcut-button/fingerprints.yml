@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "IKEA of Sweden/SOMRIG button"
+    deviceLabel: IKEA Shortcut Button
+    manufacturer: IKEA of Sweden
+    model: SOMRIG shortcut button
+    deviceProfileName: two-buttons-battery
