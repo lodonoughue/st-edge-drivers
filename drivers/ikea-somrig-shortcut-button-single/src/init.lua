@@ -1,7 +1,6 @@
 local capabilities = require "st.capabilities"
 local clusters = require "st.zigbee.zcl.clusters"
 local defaults = require "st.zigbee.defaults"
-
 local ZigbeeDriver = require "st.zigbee"
 local common = require "common"
 

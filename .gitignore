@@ -43,3 +43,6 @@ luac.out
 .env
 .env.*
 !.env.example
+
+#MacOS
+.DS_Store
