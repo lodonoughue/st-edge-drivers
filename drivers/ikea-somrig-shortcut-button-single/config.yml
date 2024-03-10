@@ -1,0 +1,8 @@
+name: "IKEA SOMRIG Shortcut Button (Single)"
+packageKey: "ikea-somrig-shortcut-button-single"
+permissions:
+  zigbee: {}
+description: >
+  Custom driver for IKEA SOMRIG shortcut buttons.
+  This driver handles the click at the moment the button is pressed, making it
+  more responsive.

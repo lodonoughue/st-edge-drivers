@@ -1,0 +1,11 @@
+name: "IKEA SOMRIG Shortcut Button (Triple)"
+packageKey: "ikea-somrig-shortcut-button-triple"
+permissions:
+  zigbee: {}
+description: >
+  Custom driver for IKEA SOMRIG shortcut buttons.
+  This driver handles 3 button actions: pushed, held and double. To determine
+  whether the first press is a single press or a double press, the button waits
+  ~1 sec before emitting the event. Hence, this driver has a lag between the
+  action and the actual event. If the feedback should be immediate, use the
+  IKEA SOMRIG Shortcut Button (Single) driver instead.
