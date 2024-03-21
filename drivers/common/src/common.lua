@@ -1,7 +1,7 @@
 local capabilities = require "st.capabilities"
 local clusters = require "st.zigbee.zcl.clusters"
 local device_mgmt = require "st.zigbee.device_management"
-local utils = require 'st.utils'
+local utils = require "st.utils"
 
 local PowerConfig = clusters.PowerConfiguration
 local BatteryPerc = PowerConfig.attributes.BatteryPercentageRemaining
